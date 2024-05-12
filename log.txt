@@ -1,0 +1,327 @@
+
+11 36 05 PM : INFO [main.py:8] Inicio del programa
+11 24 07 PM : INFO [main.py:8] Inicio del programa
+11 35 07 PM : INFO [main.py:8] Inicio del programa
+11 35 07 PM : INFO [main.py:10] {'_id': None, '_nombre': 'Juan', '_apellido': 'Perez', '_edad': 22, '_salario': 1000}
+11 35 07 PM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+11 35 07 PM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+11 35 07 PM : DEBUG [Conexion.py:60] Se cerró correctamente el cursor.
+11 35 07 PM : DEBUG [Conexion.py:71] Se cerró correctamente la conexión a la base de datos
+11 35 07 PM : INFO [main.py:12] Fin del programa
+11 19 10 PM : INFO [main.py:8] Inicio del programa
+11 19 10 PM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+11 19 10 PM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+11 19 10 PM : DEBUG [Conexion.py:60] Se cerró correctamente el cursor.
+11 19 10 PM : DEBUG [Conexion.py:71] Se cerró correctamente la conexión a la base de datos
+11 32 11 PM : INFO [main.py:8] Inicio del programa
+11 32 11 PM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+11 32 11 PM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+11 32 11 PM : DEBUG [Conexion.py:60] Se cerró correctamente el cursor.
+11 32 11 PM : DEBUG [Conexion.py:71] Se cerró correctamente la conexión a la base de datos
+11 04 13 PM : INFO [main.py:8] Inicio del programa
+11 04 13 PM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+11 04 13 PM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+11 04 13 PM : DEBUG [EmpleadoDAO.py:24] Empleado Juan insertado
+11 04 13 PM : DEBUG [Conexion.py:60] Se cerró correctamente el cursor.
+11 04 13 PM : DEBUG [Conexion.py:71] Se cerró correctamente la conexión a la base de datos
+11 04 13 PM : INFO [main.py:11] Fin del programa
+11 12 16 PM : INFO [main.py:8] Inicio del programa
+11 12 16 PM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+11 12 16 PM : DEBUG [Conexion.py:23] Conexión ya estaba creada
+01 00 05 AM : INFO [main.py:8] Inicio del programa
+01 00 05 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 00 05 AM : INFO [main.py:12] Fin del programa
+01 29 07 AM : INFO [main.py:8] Inicio del programa
+01 29 07 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 29 07 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 29 07 AM : INFO [main.py:14] Fin del programa
+01 14 09 AM : INFO [main.py:8] Inicio del programa
+01 14 09 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 14 09 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 14 09 AM : DEBUG [EmpleadoDAO.py:24] Empleado Juan insertado
+01 14 09 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 14 09 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 14 09 AM : INFO [main.py:11] Fin del programa
+01 27 13 AM : INFO [main.py:8] Inicio del programa
+01 27 13 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 27 13 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 27 13 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 27 13 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 16 14 AM : INFO [main.py:8] Inicio del programa
+01 16 14 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 16 14 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 16 14 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 16 14 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 43 15 AM : INFO [main.py:8] Inicio del programa
+01 43 15 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 43 15 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 43 15 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 43 15 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 52 17 AM : INFO [main.py:8] Inicio del programa
+01 52 17 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 52 17 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 52 17 AM : ERROR [Conexion.py:51] Error al ejecutar la consulta: Incorrect number of bindings supplied. The current statement uses 4, and there are 0 supplied.
+01 52 17 AM : DEBUG [EmpleadoDAO.py:29] Empleado Juan insertado
+01 52 17 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 52 17 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 52 17 AM : INFO [main.py:11] Fin del programa
+01 36 19 AM : INFO [main.py:8] Inicio del programa
+01 36 19 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 36 19 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 36 19 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 36 19 AM : DEBUG [EmpleadoDAO.py:31] Empleado Juan insertado
+01 36 19 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 36 19 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 36 19 AM : INFO [main.py:11] Fin del programa
+01 31 20 AM : INFO [main.py:8] Inicio del programa
+01 31 20 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 31 20 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 31 20 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 31 20 AM : DEBUG [EmpleadoDAO.py:31] Empleado Juan insertado
+01 31 20 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 31 20 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 31 20 AM : INFO [main.py:11] Fin del programa
+01 43 20 AM : INFO [main.py:8] Inicio del programa
+01 43 20 AM : DEBUG [Conexion.py:19] Se abrió correctamente la conexión a la base de datos.
+01 43 20 AM : DEBUG [Conexion.py:31] Se abrió correctamente el cursor.
+01 43 20 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 43 20 AM : DEBUG [EmpleadoDAO.py:31] Empleado Juan insertado
+01 43 20 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+01 43 20 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+01 43 20 AM : INFO [main.py:11] Fin del programa
+01 13 30 AM : INFO [main.py:8] Inicio del programa
+01 13 30 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 13 30 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 13 30 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 13 30 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 13 30 AM : DEBUG [EmpleadoDAO.py:32] Empleado Juan insertado
+01 13 30 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 13 30 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 13 30 AM : INFO [main.py:11] Fin del programa
+01 37 30 AM : INFO [main.py:8] Inicio del programa
+01 37 30 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 37 30 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 37 30 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 37 30 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 37 30 AM : DEBUG [EmpleadoDAO.py:32] Empleado Juan insertado
+01 37 30 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 37 30 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 37 30 AM : INFO [main.py:11] Fin del programa
+01 34 31 AM : INFO [main.py:8] Inicio del programa
+01 34 31 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 34 31 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 34 31 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 34 31 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 34 31 AM : DEBUG [EmpleadoDAO.py:32] Empleado Juan insertado
+01 34 31 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 34 31 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 34 31 AM : INFO [main.py:11] Fin del programa
+01 48 31 AM : INFO [main.py:8] Inicio del programa
+01 48 31 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 48 31 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 48 31 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 48 31 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 48 31 AM : DEBUG [EmpleadoDAO.py:32] Empleado Juan insertado
+01 48 31 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 48 31 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 48 31 AM : INFO [main.py:11] Fin del programa
+01 00 36 AM : INFO [main.py:8] Inicio del programa
+01 00 36 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 00 36 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 00 36 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 00 36 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 00 36 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 00 36 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 00 36 AM : INFO [main.py:12] Fin del programa
+01 17 36 AM : INFO [main.py:8] Inicio del programa
+01 17 36 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 17 36 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 17 36 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 17 36 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 17 36 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 17 36 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 17 36 AM : INFO [main.py:12] Fin del programa
+01 04 38 AM : INFO [main.py:8] Inicio del programa
+01 04 38 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 04 38 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 04 38 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 04 38 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 04 38 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 04 38 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 04 38 AM : INFO [main.py:12] Fin del programa
+01 37 38 AM : INFO [main.py:8] Inicio del programa
+01 49 38 AM : INFO [main.py:8] Inicio del programa
+01 49 38 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 49 38 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 49 38 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 49 38 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 49 38 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 49 38 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 1, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 2, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 3, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 4, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 5, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 6, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:12] ID: 1000.0, Nombre: 7, Apellido: Juan, Edad: Perez, Salario: 22
+01 49 38 AM : INFO [main.py:15] Fin del programa
+01 54 40 AM : INFO [main.py:8] Inicio del programa
+01 54 40 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 54 40 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 54 40 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 54 40 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 54 40 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 54 40 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 1, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 2, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 3, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 4, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 5, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 6, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:12] ID: 1000.0, Nombre: 7, Apellido: Juan, Edad: Perez, Salario: 22
+01 54 40 AM : INFO [main.py:15] Fin del programa
+01 06 41 AM : INFO [main.py:8] Inicio del programa
+01 06 41 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 06 41 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 06 41 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 06 41 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 06 41 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 06 41 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 09 42 AM : INFO [main.py:8] Inicio del programa
+01 09 42 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 09 42 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 09 42 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 09 42 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 09 42 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 09 42 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:12] None
+01 09 42 AM : INFO [main.py:15] Fin del programa
+01 02 44 AM : INFO [main.py:8] Inicio del programa
+01 02 44 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 02 44 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 02 44 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 02 44 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 02 44 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 02 44 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 02 44 AM : INFO [main.py:12] ID: 1, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:12] ID: 2, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:12] ID: 3, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:12] ID: 4, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:12] ID: 5, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:12] ID: 6, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:12] ID: 7, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+01 02 44 AM : INFO [main.py:15] Fin del programa
+01 34 51 AM : INFO [main.py:8] Inicio del programa
+01 34 51 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 34 51 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 34 51 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 34 51 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 34 51 AM : INFO [main.py:16] Fin del programa
+01 03 52 AM : INFO [main.py:8] Inicio del programa
+01 03 52 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 03 52 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 03 52 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 03 52 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 03 52 AM : DEBUG [EmpleadoDAO.py:60] Empleado Juan eliminado
+01 03 52 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 03 52 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 03 52 AM : INFO [main.py:16] Fin del programa
+01 16 54 AM : INFO [main.py:8] Inicio del programa
+01 16 54 AM : DEBUG [Conexion.py:20] Se abrió correctamente la conexión a la base de datos.
+01 16 54 AM : DEBUG [Conexion.py:32] Se abrió correctamente el cursor.
+01 16 54 AM : DEBUG [Conexion.py:47] Consulta ejecutada correctamente.
+01 16 54 AM : DEBUG [Conexion.py:59] Se envió correctamente la consulta.
+01 16 54 AM : DEBUG [EmpleadoDAO.py:60] Empleado Juan eliminado
+01 16 54 AM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+01 16 54 AM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+01 16 54 AM : INFO [main.py:16] Fin del programa
+02 33 24 PM : INFO [main.py:8] Inicio del programa
+02 33 24 PM : DEBUG [Conexion.py:25] Se abrió correctamente la conexión a la base de datos.
+02 33 24 PM : DEBUG [Conexion.py:37] Se abrió correctamente el cursor.
+02 33 24 PM : DEBUG [Conexion.py:52] Consulta ejecutada correctamente.
+02 37 25 PM : INFO [main.py:8] Inicio del programa
+02 37 25 PM : DEBUG [Conexion.py:25] Se abrió correctamente la conexión a la base de datos.
+02 37 25 PM : DEBUG [Conexion.py:37] Se abrió correctamente el cursor.
+02 37 25 PM : DEBUG [Conexion.py:52] Consulta ejecutada correctamente.
+02 37 25 PM : DEBUG [Conexion.py:66] Se cerró correctamente el cursor.
+02 37 25 PM : DEBUG [Conexion.py:77] Se cerró correctamente la conexión a la base de datos
+02 33 27 PM : INFO [main.py:8] Inicio del programa
+02 33 27 PM : DEBUG [Conexion.py:25] Se abrió correctamente la conexión a la base de datos.
+02 33 27 PM : DEBUG [Conexion.py:37] Se abrió correctamente el cursor.
+02 33 27 PM : DEBUG [Conexion.py:52] Consulta ejecutada correctamente.
+02 33 27 PM : DEBUG [Conexion.py:112] Consulta enviada correctamente.
+02 33 27 PM : DEBUG [Conexion.py:117] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 33 27 PM : DEBUG [Conexion.py:66] Se cerró correctamente el cursor.
+02 33 27 PM : DEBUG [Conexion.py:77] Se cerró correctamente la conexión a la base de datos
+02 09 29 PM : INFO [main.py:8] Inicio del programa
+02 09 29 PM : DEBUG [Conexion.py:25] Se abrió correctamente la conexión a la base de datos.
+02 09 29 PM : DEBUG [Conexion.py:37] Se abrió correctamente el cursor.
+02 09 29 PM : DEBUG [Conexion.py:52] Consulta ejecutada correctamente.
+02 09 29 PM : DEBUG [Conexion.py:112] Consulta enviada correctamente.
+02 09 29 PM : DEBUG [Conexion.py:117] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 09 29 PM : DEBUG [Conexion.py:66] Se cerró correctamente el cursor.
+02 09 29 PM : DEBUG [Conexion.py:77] Se cerró correctamente la conexión a la base de datos
+02 09 29 PM : DEBUG [EmpleadoDAO.py:21] Respuesta: <property object at 0x102fa1620>
+02 20 30 PM : INFO [main.py:8] Inicio del programa
+02 20 30 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+02 20 30 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+02 20 30 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+02 20 30 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+02 20 30 PM : DEBUG [Conexion.py:113] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 20 30 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+02 20 30 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+02 24 31 PM : INFO [main.py:8] Inicio del programa
+02 24 31 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+02 24 31 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+02 24 31 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+02 24 31 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+02 24 31 PM : DEBUG [Conexion.py:113] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 24 31 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+02 24 31 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+02 24 31 PM : DEBUG [EmpleadoDAO.py:21] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 24 31 PM : INFO [main.py:12] ID: 2, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 24 31 PM : INFO [main.py:12] ID: 3, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 24 31 PM : INFO [main.py:12] ID: 4, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 24 31 PM : INFO [main.py:12] ID: 5, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 24 31 PM : INFO [main.py:12] ID: 6, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 24 31 PM : INFO [main.py:12] ID: 7, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 24 31 PM : INFO [main.py:16] Fin del programa
+02 46 31 PM : DEBUG [main.py:8] Inicio del programa
+02 46 31 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+02 46 31 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+02 46 31 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+02 46 31 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+02 46 31 PM : DEBUG [Conexion.py:113] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 46 31 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+02 46 31 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+02 46 31 PM : DEBUG [EmpleadoDAO.py:21] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0)]
+02 46 31 PM : DEBUG [main.py:12] ID: 2, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 46 31 PM : DEBUG [main.py:12] ID: 3, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 46 31 PM : DEBUG [main.py:12] ID: 4, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 46 31 PM : DEBUG [main.py:12] ID: 5, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 46 31 PM : DEBUG [main.py:12] ID: 6, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 46 31 PM : DEBUG [main.py:12] ID: 7, Nombre: Juan, Apellido: Perez, Edad: 22, Salario: 1000.0
+02 46 31 PM : DEBUG [main.py:16] Fin del programa
+02 13 32 PM : DEBUG [main.py:8] Inicio del programa
+02 13 32 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+02 13 32 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+02 13 32 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+02 13 32 PM : ERROR [Conexion.py:103] Error al enviar la consulta: <class 'AttributeError'> - type object 'Conexion' has no attribute 'enviar_consulta' - <traceback object at 0x102fad400>
+02 13 32 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+02 13 32 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+02 52 34 PM : DEBUG [main.py:8] Inicio del programa
+02 52 34 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+02 52 34 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+02 52 34 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+02 52 34 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+02 52 34 PM : DEBUG [Conexion.py:113] Respuesta: 1
+02 52 34 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+02 52 34 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+02 52 34 PM : DEBUG [EmpleadoDAO.py:37] Empleado Juan insertado
+02 52 34 PM : DEBUG [main.py:16] Fin del programa

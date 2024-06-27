@@ -32,10 +32,9 @@ class Menu:
             apellido = input("Ingrese el apellido del empleado: ")
             edad = int(input("Ingrese la edad del empleado: "))
             salario = float(input("Ingrese el salario del empleado: "))
-            empleado = Empleado(nombre, apellido, edad, salario)
-            id = EmpleadoDAO.insertar_empleado(empleado)
-            print("El empleado con id: " + str(id) + " se agrego correctamente")
+            id = EmpleadoDAO.insertar_empleado(nombre, apellido, edad, salario)
+            print("El empleado con ID " + str(id) + " se agrego correctamente")
             log.info("Empleado agregado")
-        except:
-            print("Error al ingresar los datos del empleado")
-            log.error("Error al agregar el empleado")
+        except TypeError:
+            print("Error en los datos ingresados")
+            log.error(TypeError)

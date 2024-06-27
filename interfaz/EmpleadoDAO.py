@@ -34,17 +34,16 @@ class EmpleadoDAO:
         return empleado
 
     @classmethod
-    def insertar_empleado(cls, empleado) -> int:
+    def insertar_empleado(cls, nombre, apellido, edad, salario) -> Empleado:
         with Conexion():
             Conexion.crear_consulta(
                 cls._INSERTAR,
-                empleado.nombre,
-                empleado.apellido,
-                empleado.edad,
-                empleado.salario,
+                nombre,
+                apellido,
+                edad,
+                salario,
             )
 
-        log.debug(f"Empleado {empleado.nombre} insertado")
         return Conexion.respuesta
 
     @classmethod

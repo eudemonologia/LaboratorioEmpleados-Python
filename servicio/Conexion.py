@@ -7,6 +7,15 @@ from logcon import log
 class Conexion:
     # Nombre del archivo
     _DATABASE = "db.sqlite"
+    _TABLE = """
+            CREATE TABLE IF NOT EXISTS empleados(
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                nombre TEXT NOT NULL,
+                apellido TEXT NOT NULL,
+                edad INTEGER NOT NULL,
+                salario REAL NOT NULL
+            )                         
+            """
 
     _conexion = None
     _cursor = None
@@ -45,6 +54,7 @@ class Conexion:
         if cls._consulta is None:
             try:
                 cls._consulta = cls._cursor.execute(consulta, args)
+
                 log.debug("Consulta ejecutada correctamente.")
             except sqlite3.Error as e:
                 cls._conexion.rollback()
@@ -77,24 +87,16 @@ class Conexion:
     def crear_bd(cls):
         cls.obtener_conexion()
         cls.obtener_cursor()
-        cls.enviar_consulta(
-            """
-            CREATE TABLE IF NOT EXISTS empleados(
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                nombre TEXT NOT NULL,
-                apellido TEXT NOT NULL,
-                edad INTEGER NOT NULL,
-                salario REAL NOT NULL
-            )                         
-            """
-        )
+        cls.crear_consulta(cls._TABLE)
         cls.cerrar_cursor()
         cls.cerrar_conexion()
+        Conexion._consulta = None
         log.debug("Se creó correctamente la base de datos.")
 
     def __enter__(self):
         Conexion.obtener_conexion()
         Conexion.obtener_cursor()
+        # Conexion.crear_consulta(Conexion._TABLE)
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         if exc_val:
@@ -105,9 +107,10 @@ class Conexion:
         else:
             Conexion._conexion.commit()
             log.info("Consulta enviada correctamente.")
-
             # Guardar en Conexion.respuesta un fetch de todo, o en caso de ser algo insertado el id en el cual se inserto
-            Conexion.respuesta = Conexion._cursor.fetchall()
+            Conexion.respuesta = (
+                Conexion._cursor.fetchall() or Conexion._cursor.lastrowid
+            )
             log.debug(f"Respuesta: {Conexion.respuesta}")
             Conexion._consulta = None
             Conexion.cerrar_cursor()

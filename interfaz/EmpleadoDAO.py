@@ -47,7 +47,7 @@ class EmpleadoDAO:
         return Conexion.respuesta
 
     @classmethod
-    def actualizar_empleado(cls, empleado):
+    def actualizar_empleado(cls, empleado: Empleado):
         with Conexion():
             Conexion.crear_consulta(
                 cls._ACTUALIZAR,
@@ -58,7 +58,7 @@ class EmpleadoDAO:
                 empleado.id,
             )
 
-        log.debug(f"Empleado {empleado.nombre} actualizado")
+        log.info(f"Empleado {empleado.nombre} actualizado")
         return Conexion.respuesta
 
     @classmethod

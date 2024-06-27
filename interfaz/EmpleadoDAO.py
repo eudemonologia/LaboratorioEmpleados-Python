@@ -6,7 +6,8 @@ from logcon import log
 
 class EmpleadoDAO:
 
-    _SELECCIONAR = "SELECT * FROM empleados"
+    _SELECCIONAR = "SELECT * FROM empleados WHERE id = ?"
+    _SELECCIONAR_TODOS = "SELECT * FROM empleados"
     _INSERTAR = (
         "INSERT INTO empleados (nombre, apellido, edad, salario) VALUES (?, ?, ?, ?)"
     )
@@ -16,12 +17,18 @@ class EmpleadoDAO:
     @classmethod
     def listar_empleados(cls) -> list:
         with Conexion():
-            Conexion.crear_consulta(cls._SELECCIONAR)
+            Conexion.crear_consulta(cls._SELECCIONAR_TODOS)
 
-        log.debug("Respuesta: " + str(Conexion.respuesta))
         empleados = Conexion.respuesta
         empleados = [Empleado(id=empleado[0], *empleado[1:]) for empleado in empleados]
         return empleados
+
+    def buscar_empleado(cls, id) -> Empleado:
+        with Conexion():
+            Conexion.crear_consulta(cls._SELECCIONAR, id)
+            empleado = Conexion.respuesta
+
+        return Empleado(id=empleado[0], *empleado[1:]) if empleado else None
 
     @classmethod
     def insertar_empleado(cls, empleado) -> int:

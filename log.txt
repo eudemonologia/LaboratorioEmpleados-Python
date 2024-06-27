@@ -325,3 +325,70 @@
 02 52 34 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
 02 52 34 PM : DEBUG [EmpleadoDAO.py:37] Empleado Juan insertado
 02 52 34 PM : DEBUG [main.py:16] Fin del programa
+06 05 11 PM : DEBUG [main.py:9] Inicio del programa
+06 24 11 PM : DEBUG [main.py:9] Inicio del programa
+06 24 11 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+06 24 11 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+06 24 11 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+06 24 11 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+06 24 11 PM : DEBUG [Conexion.py:113] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0), (8, 'Juan', 'Perez', 22, 1000.0)]
+06 24 11 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+06 24 11 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+06 24 11 PM : DEBUG [EmpleadoDAO.py:21] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0), (8, 'Juan', 'Perez', 22, 1000.0)]
+06 24 11 PM : DEBUG [main.py:18] Fin del programa
+06 47 11 PM : DEBUG [main.py:9] Inicio del programa
+06 47 11 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+06 47 11 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+06 47 11 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+06 47 11 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+06 47 11 PM : DEBUG [Conexion.py:113] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0), (8, 'Juan', 'Perez', 22, 1000.0)]
+06 47 11 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+06 47 11 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+06 47 11 PM : DEBUG [main.py:18] Fin del programa
+06 24 13 PM : DEBUG [main.py:9] Inicio del programa
+06 24 13 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+06 24 13 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+06 24 13 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+06 24 13 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+06 24 13 PM : DEBUG [Conexion.py:113] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0), (3, 'Juan', 'Perez', 22, 1000.0), (4, 'Juan', 'Perez', 22, 1000.0), (5, 'Juan', 'Perez', 22, 1000.0), (6, 'Juan', 'Perez', 22, 1000.0), (7, 'Juan', 'Perez', 22, 1000.0), (8, 'Juan', 'Perez', 22, 1000.0)]
+06 24 13 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+06 24 13 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+06 24 13 PM : DEBUG [main.py:18] Fin del programa
+06 14 14 PM : DEBUG [main.py:9] Inicio del programa
+06 14 14 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+06 14 14 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+06 14 14 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+06 14 14 PM : DEBUG [Conexion.py:108] Consulta enviada correctamente.
+06 14 14 PM : DEBUG [Conexion.py:62] Se cerró correctamente el cursor.
+06 14 14 PM : DEBUG [Conexion.py:73] Se cerró correctamente la conexión a la base de datos
+06 14 14 PM : DEBUG [main.py:18] Fin del programa
+06 41 29 PM : DEBUG [main.py:9] Inicio del programa
+06 21 30 PM : DEBUG [main.py:9] Inicio del programa
+06 23 30 PM : INFO [main.py:15] Opcion seleccionada: 1
+06 52 30 PM : DEBUG [main.py:9] Inicio del programa
+06 34 31 PM : DEBUG [main.py:9] Inicio del programa
+06 35 31 PM : INFO [main.py:15] Opcion seleccionada: 1
+06 35 31 PM : INFO [Menu.py:10] Listando empleados
+06 35 31 PM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+06 35 31 PM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+06 35 31 PM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+06 35 31 PM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+06 35 31 PM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+06 35 31 PM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+06 35 31 PM : INFO [Menu.py:13] Listado de empleados finalizado
+06 17 34 PM : INFO [main.py:9] Inicio del programa
+06 14 35 PM : INFO [main.py:9] Inicio del programa
+06 24 35 PM : INFO [main.py:9] Inicio del programa
+06 43 35 PM : INFO [main.py:17] Opcion seleccionada: /usr/local/bin/python3 /Users/eudemonologia/Documents/programacion/LaboratorioEmpleados/main.py
+06 47 35 PM : INFO [main.py:9] Inicio del programa
+06 08 36 PM : INFO [main.py:16] Opcion seleccionada: /usr/local/bin/python3 /Users/eudemonologia/Documents/programacion/LaboratorioEmpleados/main.py
+06 12 36 PM : INFO [main.py:9] Inicio del programa
+06 24 36 PM : INFO [main.py:16] Opcion seleccionada: /usr/local/bin/python3 /Users/eudemonologia/Documents/programacion/LaboratorioEmpleados/main.py
+06 28 36 PM : INFO [main.py:9] Inicio del programa
+06 37 36 PM : INFO [main.py:16] Opcion seleccionada: /usr/local/bin/python3 /Users/eudemonologia/Documents/programacion/LaboratorioEmpleados/main.py
+06 39 36 PM : INFO [main.py:9] Inicio del programa
+07 17 18 AM : INFO [main.py:16] Opcion seleccionada: 5
+07 17 18 AM : DEBUG [main.py:27] Fin del programa
+07 56 18 AM : INFO [main.py:9] Inicio del programa
+07 58 18 AM : INFO [main.py:16] Opcion seleccionada: 5
+07 58 18 AM : DEBUG [main.py:28] Fin del programa

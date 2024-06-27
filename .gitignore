@@ -1,3 +1,4 @@
 # el cache de Python
 
 __pycache__/
+.DS_Store

@@ -46,7 +46,6 @@ class Conexion:
             try:
                 cls._consulta = cls._cursor.execute(consulta, args)
                 log.debug("Consulta ejecutada correctamente.")
-                print(cls._consulta)
             except sqlite3.Error as e:
                 cls._conexion.rollback()
                 log.error("Error al ejecutar la consulta: " + str(e))
@@ -110,6 +109,5 @@ class Conexion:
             Conexion.respuesta = (
                 Conexion._cursor.fetchall() or Conexion._cursor.rowcount
             )
-            log.debug(f"Respuesta: {Conexion.respuesta}")
             Conexion.cerrar_cursor()
             Conexion.cerrar_conexion()

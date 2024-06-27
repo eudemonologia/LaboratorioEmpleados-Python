@@ -1128,3 +1128,82 @@
 03 42 51 PM : INFO [Menu.py:91] Empleado no eliminado
 03 55 51 PM : INFO [main.py:15] Opcion seleccionada: 6
 03 55 51 PM : DEBUG [main.py:41] Fin del programa
+05 09 44 PM : INFO [main.py:7] Inicio del programa
+05 11 44 PM : INFO [main.py:15] Opcion seleccionada: 5
+05 13 44 PM : INFO [Menu.py:77] Buscando empleado con id: 2
+05 13 44 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 13 44 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 13 44 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 13 44 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 13 44 PM : DEBUG [Conexion.py:114] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0)]
+05 13 44 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 13 44 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 18 44 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 18 44 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 18 44 PM : ERROR [Conexion.py:104] Error al enviar la consulta: <class 'AttributeError'> - 'str' object has no attribute 'id' - <traceback object at 0x102a332c0>
+05 18 44 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 18 44 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 07 47 PM : INFO [main.py:7] Inicio del programa
+05 10 47 PM : INFO [main.py:15] Opcion seleccionada: 5
+05 11 47 PM : INFO [Menu.py:77] Buscando empleado con id: 2
+05 11 47 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 11 47 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 11 47 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 11 47 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 11 47 PM : DEBUG [Conexion.py:114] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0)]
+05 11 47 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 11 47 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 13 47 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 13 47 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 13 47 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 13 47 PM : ERROR [Conexion.py:104] Error al enviar la consulta: <class 'AttributeError'> - type object 'Conexion' has no attribute 'enviar_consulta' - <traceback object at 0x100e1ce00>
+05 13 47 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 13 47 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 39 50 PM : INFO [main.py:7] Inicio del programa
+05 41 50 PM : INFO [main.py:15] Opcion seleccionada: 5
+05 42 50 PM : INFO [Menu.py:77] Buscando empleado con id: 2
+05 42 50 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 42 50 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 42 50 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 42 50 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 42 50 PM : DEBUG [Conexion.py:114] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0)]
+05 42 50 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 42 50 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 45 50 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 45 50 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 45 50 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 45 50 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 45 50 PM : DEBUG [Conexion.py:114] Respuesta: 0
+05 45 50 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 45 50 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 45 50 PM : DEBUG [EmpleadoDAO.py:69] Empleado 2 eliminado
+05 43 51 PM : INFO [main.py:7] Inicio del programa
+05 45 51 PM : INFO [main.py:15] Opcion seleccionada: 5
+05 46 51 PM : INFO [Menu.py:77] Buscando empleado con id: 2
+05 46 51 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 46 51 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 46 51 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 46 51 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 46 51 PM : DEBUG [Conexion.py:114] Respuesta: 0
+05 46 51 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 46 51 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 57 51 PM : INFO [main.py:15] Opcion seleccionada: 5
+05 58 51 PM : INFO [Menu.py:77] Buscando empleado con id: 11
+05 58 51 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 58 51 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 58 51 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 58 51 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 58 51 PM : DEBUG [Conexion.py:114] Respuesta: [(11, 'juan', 'judas', 42, 140.0)]
+05 58 51 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 58 51 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 00 52 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+05 00 52 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+05 00 52 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+05 00 52 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+05 00 52 PM : DEBUG [Conexion.py:114] Respuesta: 0
+05 00 52 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+05 00 52 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+05 00 52 PM : DEBUG [EmpleadoDAO.py:69] Empleado 11 eliminado
+05 00 52 PM : INFO [Menu.py:92] Empleado eliminado
+05 24 52 PM : INFO [main.py:15] Opcion seleccionada: 6
+05 24 52 PM : DEBUG [main.py:41] Fin del programa

@@ -58,13 +58,13 @@ class EmpleadoDAO:
                 empleado.id,
             )
 
-        log.info(f"Empleado {empleado.nombre} actualizado")
+        log.info(f"Empleado {empleado.id} actualizado")
         return Conexion.respuesta
 
     @classmethod
     def eliminar_empleado(cls, empleado):
         with Conexion():
             Conexion.crear_consulta(cls._ELIMINAR, empleado.id)
-            id_eliminado = Conexion.enviar_consulta()
-            log.debug(f"Empleado {empleado.nombre} eliminado")
-            return id_eliminado
+
+        log.debug(f"Empleado {empleado.id} eliminado")
+        return Conexion.respuesta

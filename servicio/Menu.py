@@ -83,9 +83,13 @@ class Menu:
             print("Esta seguro que desea eliminar al empleado? (S/N)")
             confirmacion = input()
             if confirmacion.upper() == "S":
-                EmpleadoDAO.eliminar_empleado(id)
-                print("El empleado con ID " + id + " se elimino correctamente")
+                EmpleadoDAO.eliminar_empleado(empleado)
+                print(
+                    "El empleado con ID "
+                    + str(empleado.id)
+                    + " se elimino correctamente"
+                )
                 log.info("Empleado eliminado")
             else:
-                print("El empleado con ID " + id + " no se elimino")
+                print("El empleado con ID " + str(empleado.id) + " no se elimino")
                 log.info("Empleado no eliminado")

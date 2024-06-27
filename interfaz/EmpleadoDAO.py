@@ -20,8 +20,13 @@ class EmpleadoDAO:
             Conexion.crear_consulta(cls._SELECCIONAR_TODOS)
 
         empleados = Conexion.respuesta
-        empleados = [Empleado(id=empleado[0], *empleado[1:]) for empleado in empleados]
-        return empleados
+        if empleados:
+            empleados = [
+                Empleado(id=empleado[0], *empleado[1:]) for empleado in empleados
+            ]
+            return empleados
+        else:
+            return []
 
     @classmethod
     def buscar_empleado(cls, id) -> Empleado:

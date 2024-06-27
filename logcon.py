@@ -1,7 +1,7 @@
 import logging as log
 
 log.basicConfig(
-    level=log.DEBUG,
+    level=log.ERROR,
     format="%(asctime)s : %(levelname)s [%(filename)s:%(lineno)s] %(message)s",
     datefmt="%I %S %M %p",
     handlers=[log.FileHandler("log.txt"), log.StreamHandler()],

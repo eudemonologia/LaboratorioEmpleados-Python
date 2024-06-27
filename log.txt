@@ -1207,3 +1207,95 @@
 05 00 52 PM : INFO [Menu.py:92] Empleado eliminado
 05 24 52 PM : INFO [main.py:15] Opcion seleccionada: 6
 05 24 52 PM : DEBUG [main.py:41] Fin del programa
+07 11 42 PM : INFO [main.py:7] Inicio del programa
+07 11 42 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 11 42 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 11 42 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 11 42 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 11 42 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 11 42 PM : DEBUG [Conexion.py:94] Se creó correctamente la base de datos.
+07 42 42 PM : INFO [main.py:17] Opcion seleccionada: 1
+07 42 42 PM : INFO [Menu.py:10] Listando empleados
+07 42 42 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 42 42 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 42 42 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 42 42 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 42 42 PM : DEBUG [Conexion.py:114] Respuesta: 0
+07 42 42 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 42 42 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 08 44 PM : INFO [main.py:7] Inicio del programa
+07 08 44 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 08 44 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 08 44 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 08 44 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 08 44 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 08 44 PM : INFO [Conexion.py:94] Se creó inicio la base de datos.
+07 13 44 PM : INFO [main.py:17] Opcion seleccionada: 1
+07 13 44 PM : INFO [Menu.py:10] Listando empleados
+07 13 44 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 13 44 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 13 44 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 13 44 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 13 44 PM : DEBUG [Conexion.py:114] Respuesta: 0
+07 13 44 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 13 44 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 13 44 PM : INFO [Menu.py:13] Listado de empleados finalizado
+07 33 45 PM : INFO [main.py:17] Opcion seleccionada: 3
+07 34 45 PM : INFO [Menu.py:18] Buscando empleado con id: 2
+07 34 45 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 34 45 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 34 45 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 34 45 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 34 45 PM : DEBUG [Conexion.py:114] Respuesta: 0
+07 34 45 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 34 45 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 34 45 PM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 42 45 PM : INFO [main.py:17] Opcion seleccionada: 4
+07 44 45 PM : INFO [Menu.py:45] Buscando empleado con id: 2
+07 44 45 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 44 45 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 44 45 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 44 45 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 44 45 PM : DEBUG [Conexion.py:114] Respuesta: 0
+07 44 45 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 44 45 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 44 45 PM : INFO [Menu.py:70] Empleado actualizado
+07 42 46 PM : INFO [main.py:17] Opcion seleccionada: 4
+07 44 46 PM : INFO [Menu.py:45] Buscando empleado con id: 2
+07 44 46 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 44 46 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 44 46 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 44 46 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 44 46 PM : DEBUG [Conexion.py:114] Respuesta: 0
+07 44 46 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 44 46 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 44 46 PM : INFO [Menu.py:70] Empleado actualizado
+07 56 46 PM : INFO [main.py:17] Opcion seleccionada: 5
+07 58 46 PM : INFO [Menu.py:77] Buscando empleado con id: 4
+07 58 46 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 58 46 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 58 46 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 58 46 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 58 46 PM : DEBUG [Conexion.py:114] Respuesta: 0
+07 58 46 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 58 46 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 28 47 PM : INFO [main.py:17] Opcion seleccionada: 2
+07 28 47 PM : INFO [Menu.py:29] Agregando empleado
+07 36 47 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 36 47 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 36 47 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 36 47 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 36 47 PM : DEBUG [Conexion.py:114] Respuesta: 1
+07 36 47 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 36 47 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 36 47 PM : INFO [Menu.py:37] Empleado agregado
+07 43 47 PM : INFO [main.py:17] Opcion seleccionada: 1
+07 43 47 PM : INFO [Menu.py:10] Listando empleados
+07 43 47 PM : DEBUG [Conexion.py:30] Se abrió correctamente la conexión a la base de datos.
+07 43 47 PM : DEBUG [Conexion.py:42] Se abrió correctamente el cursor.
+07 43 47 PM : DEBUG [Conexion.py:58] Consulta ejecutada correctamente.
+07 43 47 PM : INFO [Conexion.py:109] Consulta enviada correctamente.
+07 43 47 PM : DEBUG [Conexion.py:114] Respuesta: [(1, 'Simon', 'Pedro', 22, 100.0)]
+07 43 47 PM : DEBUG [Conexion.py:71] Se cerró correctamente el cursor.
+07 43 47 PM : DEBUG [Conexion.py:82] Se cerró correctamente la conexión a la base de datos
+07 43 47 PM : INFO [Menu.py:13] Listado de empleados finalizado

@@ -46,6 +46,7 @@ class Menu:
             empleado = EmpleadoDAO.buscar_empleado(id)
             if empleado is None:
                 print("No se encontro el empleado con el id: " + id)
+                log.info("Empleado no encontrado")
             else:
                 print(empleado)
                 print(
@@ -67,7 +68,8 @@ class Menu:
                 EmpleadoDAO.actualizar_empleado(empleado)
                 print("El empleado con ID " + id + " se actualizo correctamente")
 
-            log.info("Empleado actualizado")
+                log.info("Empleado actualizado")
+
         except ValueError:
             log.error(ValueError)
             print("Error en los datos ingresados")
@@ -78,6 +80,7 @@ class Menu:
         empleado = EmpleadoDAO.buscar_empleado(id)
         if empleado is None:
             print("No se encontro el empleado con el id: " + id)
+            log.info("Empleado no encontrado")
         else:
             print(empleado)
             print("Esta seguro que desea eliminar al empleado? (S/N)")

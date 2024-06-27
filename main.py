@@ -8,6 +8,8 @@ def main():
     print("\n", "Bienvenido al sistema de empleados".center(60, "="), "\n")
     opcion_usuario = ""
 
+    Conexion.crear_bd()
+
     while opcion_usuario != "6":
         opcion_usuario = input(
             "\n1. Listar Empleados\n2. Agregar Empleado\n3. Buscar por ID\n4. Actualizar por ID\n5. Eliminar por ID\n6. Salir\n"

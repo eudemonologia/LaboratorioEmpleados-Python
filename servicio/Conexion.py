@@ -91,7 +91,7 @@ class Conexion:
         cls.cerrar_cursor()
         cls.cerrar_conexion()
         Conexion._consulta = None
-        log.debug("Se creó correctamente la base de datos.")
+        log.info("Se creó inicio la base de datos.")
 
     def __enter__(self):
         Conexion.obtener_conexion()

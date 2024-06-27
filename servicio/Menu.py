@@ -15,8 +15,8 @@ class Menu:
     # Metodo estático para buscar un empleado por su id e imprimirlo en la consola.
     @staticmethod
     def buscar(id):
-        empleado = EmpleadoDAO.buscar_empleado(id)
         log.info("Buscando empleado con id: " + id)
+        empleado = EmpleadoDAO.buscar_empleado(id)
         if empleado is None:
             print("No se encontro el empleado con el id: " + id)
         else:

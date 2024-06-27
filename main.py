@@ -17,6 +17,17 @@ def main():
         if opcion_usuario.strip() == "1":
             Menu.listar()
             input("Presione enter para continuar")
+        if opcion_usuario.strip() == "2":
+            pass
+        if opcion_usuario.strip() == "3":
+            Menu.buscar(input("Ingrese el ID del empleado: ").strip())
+            input("Presione enter para continuar")
+        if opcion_usuario.strip() == "4":
+            Menu.eliminar(input("Ingrese el ID del empleado: ").strip())
+            input("Presione enter para continuar")
+        else:
+            print("Opcion no valida")
+
     # empleado = Empleado("Juan", "Perez", 22, 1000, id=1)
     # EmpleadoDAO.insertar_empleado(empleado)
     # for empleado in EmpleadoDAO.listar_empleados():

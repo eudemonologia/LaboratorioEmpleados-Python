@@ -392,3 +392,505 @@
 07 56 18 AM : INFO [main.py:9] Inicio del programa
 07 58 18 AM : INFO [main.py:16] Opcion seleccionada: 5
 07 58 18 AM : DEBUG [main.py:28] Fin del programa
+07 55 42 AM : INFO [main.py:9] Inicio del programa
+07 08 43 AM : INFO [main.py:9] Inicio del programa
+07 10 43 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 28 45 AM : INFO [main.py:9] Inicio del programa
+07 31 45 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 32 45 AM : INFO [Menu.py:18] Buscando empleado con id: 1
+07 55 46 AM : INFO [main.py:9] Inicio del programa
+07 57 46 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 58 46 AM : INFO [Menu.py:18] Buscando empleado con id: 1
+07 09 47 AM : INFO [main.py:9] Inicio del programa
+07 12 47 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 13 47 AM : INFO [Menu.py:18] Buscando empleado con id: 1
+07 13 47 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 13 47 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 13 47 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 13 47 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 13 47 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 13 47 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 13 47 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 32 47 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 33 47 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+07 33 47 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 33 47 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 33 47 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+07 33 47 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 33 47 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 33 47 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 43 49 AM : INFO [main.py:9] Inicio del programa
+07 46 49 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 47 49 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+07 47 49 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 47 49 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 47 49 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 47 49 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 47 49 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 47 49 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 47 49 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 07 50 AM : INFO [main.py:9] Inicio del programa
+07 09 50 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 10 50 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+07 10 50 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 10 50 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 10 50 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 10 50 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 10 50 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 10 50 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 10 50 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 29 51 AM : INFO [main.py:9] Inicio del programa
+07 32 51 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 34 51 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+07 34 51 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 34 51 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 34 51 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 34 51 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 34 51 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 34 51 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 34 51 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 42 55 AM : INFO [main.py:9] Inicio del programa
+07 44 55 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 46 55 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+07 46 55 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 46 55 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 46 55 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 46 55 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 46 55 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 46 55 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 46 55 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 47 56 AM : INFO [main.py:9] Inicio del programa
+07 49 56 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 50 56 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+07 50 56 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 50 56 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 50 56 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 50 56 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 50 56 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 50 56 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 50 56 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 03 58 AM : INFO [main.py:9] Inicio del programa
+07 05 58 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 06 58 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+07 06 58 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 06 58 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 06 58 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 06 58 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 06 58 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 06 58 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 06 58 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 48 58 AM : INFO [main.py:9] Inicio del programa
+07 50 58 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 51 58 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+07 51 58 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 51 58 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 51 58 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 51 58 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 51 58 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 51 58 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 51 58 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+07 23 59 AM : INFO [main.py:9] Inicio del programa
+07 25 59 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 26 59 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+07 26 59 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 26 59 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 26 59 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 26 59 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 26 59 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 26 59 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 54 59 AM : INFO [main.py:9] Inicio del programa
+07 55 59 AM : INFO [main.py:16] Opcion seleccionada: 3
+07 58 59 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+07 58 59 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 58 59 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 58 59 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+07 58 59 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 58 59 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 58 59 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+07 58 59 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+07 58 59 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+07 58 59 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+07 58 59 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+07 58 59 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+07 58 59 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 27 01 AM : INFO [main.py:9] Inicio del programa
+08 28 01 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 29 01 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 29 01 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 29 01 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 29 01 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 29 01 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 29 01 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 29 01 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 29 01 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 29 01 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 29 01 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 29 01 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 29 01 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 29 01 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 29 01 AM : INFO [Menu.py:25] Buscado de empleado finalizado
+08 38 01 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 39 01 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 39 01 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 39 01 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 39 01 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 39 01 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 39 01 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 39 01 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 53 01 AM : INFO [main.py:9] Inicio del programa
+08 55 01 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 56 01 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 56 01 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 56 01 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 56 01 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 56 01 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 56 01 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 56 01 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 56 01 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 56 01 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 56 01 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 56 01 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 56 01 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 56 01 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 56 01 AM : INFO [Menu.py:25] Buscado de empleado finalizado
+08 10 03 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 10 03 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 10 03 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 10 03 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 10 03 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 10 03 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 10 03 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 10 03 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 46 03 AM : INFO [main.py:9] Inicio del programa
+08 47 03 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 48 03 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 48 03 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 48 03 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 48 03 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 48 03 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 48 03 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 48 03 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 48 03 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 55 03 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 56 03 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 56 03 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 56 03 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 56 03 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 56 03 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 56 03 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 56 03 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 56 03 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 00 04 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 01 04 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 01 04 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 01 04 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 01 04 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 01 04 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 01 04 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 01 04 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 05 04 AM : INFO [main.py:9] Inicio del programa
+08 06 04 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 08 04 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 08 04 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 08 04 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 08 04 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 08 04 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 08 04 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 08 04 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 08 04 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 40 05 AM : INFO [main.py:9] Inicio del programa
+08 42 05 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 44 05 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 44 05 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 44 05 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 44 05 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 44 05 AM : ERROR [Conexion.py:102] Error al enviar la consulta: <class 'TypeError'> - 'NoneType' object is not subscriptable - <traceback object at 0x101179500>
+08 44 05 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 44 05 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 49 05 AM : INFO [main.py:9] Inicio del programa
+08 50 05 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 50 05 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 50 05 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 50 05 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 50 05 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 50 05 AM : ERROR [Conexion.py:102] Error al enviar la consulta: <class 'TypeError'> - 'NoneType' object is not subscriptable - <traceback object at 0x10267acc0>
+08 50 05 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 50 05 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 00 07 AM : INFO [main.py:9] Inicio del programa
+08 02 07 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 02 07 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 02 07 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 02 07 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 02 07 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 02 07 AM : INFO [EmpleadoDAO.py:31] Empleado 3 encontrado
+08 02 07 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 02 07 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 02 07 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 02 07 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 00 09 AM : INFO [main.py:9] Inicio del programa
+08 01 09 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 02 09 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 02 09 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 02 09 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 02 09 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 02 09 AM : INFO [EmpleadoDAO.py:32] Empleado 3 encontrado
+08 02 09 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 02 09 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 02 09 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 02 09 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 44 11 AM : INFO [main.py:9] Inicio del programa
+08 45 11 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 45 11 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 45 11 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 45 11 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 45 11 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 45 11 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 45 11 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 45 11 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 45 11 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 11 12 AM : INFO [main.py:9] Inicio del programa
+08 13 12 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 13 12 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 13 12 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 13 12 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 13 12 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 13 12 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 13 12 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 13 12 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 13 12 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 29 14 AM : INFO [main.py:9] Inicio del programa
+08 34 14 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 35 14 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 35 14 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 35 14 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 35 14 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 35 14 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 35 14 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 35 14 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 35 14 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 44 14 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 44 14 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 44 14 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 44 14 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 44 14 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 44 14 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 44 14 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 44 14 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 48 14 AM : INFO [main.py:9] Inicio del programa
+08 50 14 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 51 14 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 51 14 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 51 14 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 51 14 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 51 14 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 51 14 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 51 14 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 51 14 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 57 14 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 05 15 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+08 05 15 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 05 15 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 05 15 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 05 15 AM : DEBUG [Conexion.py:107] Consulta enviada correctamente.
+08 05 15 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 05 15 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 52 15 AM : INFO [main.py:9] Inicio del programa
+08 53 15 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 54 15 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 54 15 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 54 15 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 54 15 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 54 15 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 54 15 AM : DEBUG [Conexion.py:112] Respuesta: [(4, 'Juan', 'Perez', 22, 1000.0)]
+08 54 15 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 54 15 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 54 15 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 32 16 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 33 16 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 33 16 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 33 16 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 33 16 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 33 16 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 33 16 AM : DEBUG [Conexion.py:112] Respuesta: -1
+08 33 16 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 33 16 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 54 16 AM : INFO [main.py:9] Inicio del programa
+08 55 16 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 57 16 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+08 57 16 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 57 16 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 57 16 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 57 16 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 57 16 AM : DEBUG [Conexion.py:112] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0)]
+08 57 16 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 57 16 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 57 16 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 01 17 AM : INFO [main.py:16] Opcion seleccionada: 
+08 02 17 AM : INFO [main.py:16] Opcion seleccionada: 2
+08 03 17 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 06 17 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 06 17 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 06 17 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 06 17 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 06 17 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 06 17 AM : DEBUG [Conexion.py:112] Respuesta: -1
+08 06 17 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 06 17 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 11 21 AM : INFO [main.py:9] Inicio del programa
+08 13 21 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 14 21 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 14 21 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 14 21 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 14 21 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 14 21 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 14 21 AM : DEBUG [Conexion.py:112] Respuesta: [(4, 'Juan', 'Perez', 22, 1000.0)]
+08 14 21 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 14 21 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 14 21 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 19 21 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 20 21 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 20 21 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 20 21 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 20 21 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 20 21 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 20 21 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 20 21 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 20 21 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 20 21 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 46 21 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 47 21 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 47 21 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 47 21 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 47 21 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 47 21 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 47 21 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 47 21 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 47 21 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 47 21 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 51 21 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 51 21 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 51 21 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 51 21 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 51 21 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 51 21 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 51 21 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 51 21 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 51 21 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 51 21 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 55 21 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 57 21 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+08 57 21 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 57 21 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 57 21 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 57 21 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 57 21 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 57 21 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 57 21 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 57 21 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 02 22 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 04 22 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 04 22 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 04 22 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 04 22 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 04 22 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 04 22 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 04 22 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 04 22 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 04 22 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 07 22 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 08 22 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 08 22 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 08 22 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 08 22 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 08 22 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 08 22 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 08 22 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 08 22 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 08 22 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 03 23 AM : INFO [main.py:16] Opcion seleccionada: 2
+08 04 23 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 06 23 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+08 06 23 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 06 23 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 06 23 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 06 23 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 06 23 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 06 23 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 06 23 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 06 23 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 48 23 AM : INFO [main.py:9] Inicio del programa
+08 49 23 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 49 23 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+08 49 23 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 49 23 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 49 23 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 49 23 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 49 23 AM : DEBUG [Conexion.py:112] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0)]
+08 49 23 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 49 23 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 49 23 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 52 23 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 53 23 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 53 23 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 53 23 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 53 23 AM : DEBUG [Conexion.py:53] Consulta ya estaba creada
+08 53 23 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 53 23 AM : DEBUG [Conexion.py:112] Respuesta: []
+08 53 23 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 53 23 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 53 23 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 31 26 AM : INFO [main.py:9] Inicio del programa
+08 34 26 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 34 26 AM : INFO [Menu.py:18] Buscando empleado con id: 5
+08 34 26 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 34 26 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 34 26 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 34 26 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 34 26 AM : DEBUG [Conexion.py:111] Respuesta: [(5, 'Juan', 'Perez', 22, 1000.0)]
+08 34 26 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 34 26 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 34 26 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 37 26 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 37 26 AM : INFO [Menu.py:18] Buscando empleado con id: 4
+08 37 26 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 37 26 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 37 26 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 37 26 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 37 26 AM : DEBUG [Conexion.py:111] Respuesta: [(4, 'Juan', 'Perez', 22, 1000.0)]
+08 37 26 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 37 26 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 37 26 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 40 26 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 42 26 AM : INFO [Menu.py:18] Buscando empleado con id: 2
+08 42 26 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 42 26 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 42 26 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 42 26 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 42 26 AM : DEBUG [Conexion.py:111] Respuesta: [(2, 'Juan', 'Perez', 22, 1000.0)]
+08 42 26 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 42 26 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 42 26 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 45 26 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 46 26 AM : INFO [Menu.py:18] Buscando empleado con id: 1
+08 46 26 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 46 26 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 46 26 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 46 26 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 46 26 AM : DEBUG [Conexion.py:111] Respuesta: []
+08 46 26 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 46 26 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 46 26 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 11 41 AM : INFO [main.py:9] Inicio del programa
+08 14 41 AM : INFO [main.py:16] Opcion seleccionada: 6
+08 19 41 AM : INFO [main.py:16] Opcion seleccionada: 3
+08 19 41 AM : INFO [Menu.py:18] Buscando empleado con id: 3
+08 19 41 AM : DEBUG [Conexion.py:21] Se abrió correctamente la conexión a la base de datos.
+08 19 41 AM : DEBUG [Conexion.py:33] Se abrió correctamente el cursor.
+08 19 41 AM : DEBUG [Conexion.py:48] Consulta ejecutada correctamente.
+08 19 41 AM : INFO [Conexion.py:107] Consulta enviada correctamente.
+08 19 41 AM : DEBUG [Conexion.py:111] Respuesta: [(3, 'Juan', 'Perez', 22, 1000.0)]
+08 19 41 AM : DEBUG [Conexion.py:61] Se cerró correctamente el cursor.
+08 19 41 AM : DEBUG [Conexion.py:72] Se cerró correctamente la conexión a la base de datos
+08 19 41 AM : INFO [Menu.py:24] Buscado de empleado finalizado
+08 26 41 AM : INFO [main.py:16] Opcion seleccionada: 5
+08 26 41 AM : DEBUG [main.py:39] Fin del programa

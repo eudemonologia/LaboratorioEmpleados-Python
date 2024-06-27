@@ -104,10 +104,11 @@ class Conexion:
             Conexion.cerrar_conexion()
         else:
             Conexion._conexion.commit()
-            log.debug("Consulta enviada correctamente.")
+            log.info("Consulta enviada correctamente.")
 
-            Conexion.respuesta = (
-                Conexion._cursor.fetchall() or Conexion._cursor.rowcount
-            )
+            # Guardar en Conexion.respuesta un fetch de todo, o en caso de ser algo insertado el id en el cual se inserto
+            Conexion.respuesta = Conexion._cursor.fetchall()
+            log.debug(f"Respuesta: {Conexion.respuesta}")
+            Conexion._consulta = None
             Conexion.cerrar_cursor()
             Conexion.cerrar_conexion()
